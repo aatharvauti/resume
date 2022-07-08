@@ -1,6 +1,6 @@
 # Site settings
 title: "Resume | Atharva Auti"
-description: "Atharva Auti // @aatharvauti // aka \"0x4U71\" or \"The Cybersecurity Cat\" // InfoSec Researcher // Open-source Software Developer // That guy who just keeps asking you to install & use LINUX (you windows you lose) // CTF Player // Geek // Actually a Cat"
+description: "Atharva Auti // @aatharvauti // aka '0x4U71' or 'The Cybersecurity Cat' // InfoSec Researcher // Open-source Software Developer // That guy who just keeps asking you to install & use LINUX (you windows you lose) // CTF Player // Geek // Actually a Cat"
 
 # Build settings
 markdown: kramdown
