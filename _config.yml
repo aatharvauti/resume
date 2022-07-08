@@ -1,0 +1,64 @@
+# Site settings
+title: "Resume | Atharva Auti"
+description: "Atharva Auti // @aatharvauti // aka \"0x4U71\" or \"The Cybersecurity Cat\" // InfoSec Researcher // Open-source Software Developer // That guy who just keeps asking you to install & use LINUX (you windows you lose) // CTF Player // Geek // Actually a Cat"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Atharva Auti"
+resume_title:                   "InfoSec Researcher & Developer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "bm.aatharvauti@pm.me"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "420-1337"
+resume_contact_address:         "69 Evergreen Terrace, Springfield"
+
+resume_header_contact_info:     "69 Evergreen Terrace, Springfield • 420-1337 • bm.aatharvauti@pm.me"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>👋 Hello, World! I am Atharva Auti.</p>
+<p>I am a third-year college student pursuing my Bachelor of Engineering (B.E.) in Cyber Security degree at Mumbai University. I am an enthusiastic Programmer and a Networking geek with experience working as a Security Researcher. </p><p>I like working on Linux (Linux is love <3) and using open-source softwares. For my daily drive, I use Parrot OS, Fedora, and Arch btw. I like doing practical things, hence I experiment using VMs, creating some insane setups.</p><p>I have a passion to develop open-source software and make projects in the field of cybersecurity.Please feel free to drop an email if you want to collaborate with me on projects :)</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           false
+resume_section_associations:    true
+resume_section_interests:       false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/aatharvauti/resume"
+  resume_twitter_url:           "http://twitter.com/aatharvauti"
+  # resume_dribbble_url:          "https://dribbble.com/aatharvauti"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/aatharvauti"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://aatharvauti.github.io/me"
+  # resume_medium_url:            "https://medium.com/@aatharvauti"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
