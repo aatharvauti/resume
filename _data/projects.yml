@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# HoneyTrack - An Improved Honeypot
+- project: HoneyTrack – An Improved Honeypot
+  role: Backend & Project Flow
+  duration: Sep, 2021 &mdash; May, 2022
+  # url: "#"
+  description: <ul class="resume-item-list"><li>A Honeypot cum SIEM tool developed on Docker Container using Python and Bash scripting, and SIEM features using Elastic Stack.</li><li>I programmed a Docker script that installed HoneyTrack in less than 2 minutes. I also configured Elastic Stack on Microsoft Azure to collect logs and visualize big data. I supervised Git VCS operations for the team. </li><li>To test Honeytrack, we set it up live and monitored attacks for 30 days which generated 250,000+ logs. After the successful tests, the college has planned to implement this project in its incident response policy.</li></ul>
+
+# Accident Detection through CCTV Footage using Python
+- project: Accident Detection through CCTV Footage using Python
+  role: Training the Model
+  duration: Feb, 2022 &mdash; Apr, 2022
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Developed a machine learning model that classifies an image as either “Accident” or else “Non-Accident”.</li><li>Python modules used – Tensorflow, PIL, Numpy, Matplotlib, and Keras.</li><li>After training, the accuracy during the testing & validation phase ranged from 75% to 85%, and the actual mean accuracy of implementation was 82.55%.</li></ul>
+
+# JMan
+- project: JMan – Local Password Manager
+  role: Backend
+  duration: Nov, 2021 &mdash; Dec, 2021
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Developed a Local Server Password Manager using  Java and MySQL (XAMPP).</li><li>Implemented RSA algorithm for unlocking the master password.</li><li>Programmed to store passwords using the SHA-256 algorithm.</li></ul>
