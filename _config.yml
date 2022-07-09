@@ -47,13 +47,14 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/aatharvauti/resume"
-  resume_twitter_url:           "http://twitter.com/aatharvauti"
+  resume_twitter_url:           "https://twitter.com/aatharvauti"
   # resume_dribbble_url:          "https://dribbble.com/aatharvauti"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/aatharvauti"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://aatharvauti.github.io/me"
+  resume_website_url:           "https://aatharvauti.github.io/me"
   # resume_medium_url:            "https://medium.com/@aatharvauti"
+  resume_tryhackme_url:         "https://tryhackme.com/p/aatharvauti"
 resume_print_social_links:      true
 
 # Design settings
