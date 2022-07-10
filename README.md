@@ -16,6 +16,8 @@ To test locally make sure Ruby is installed, then run the following in your term
 3. `bundle exec jekyll serve`
 4. Open your browser to `localhost:4000`
 
+Protip: Using `bundle exec jekyll serve --host 0.0.0.0` will make the website available for other devices on your network (so you can simply go to your PC's IP address from your mobile device - Example, Browse to http://192.168.0.69:4000)
+
 ### Running locally with Docker
 
 To test locally with docker, run the following in your terminal after installing docker into your system:
