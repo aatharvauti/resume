@@ -44,7 +44,7 @@ Most of the basic customization will take place in the `/_config.yml` file. Here
 
 - To edit the styling of webpage, edit the `.scss` files in `/_scss`.
 
-- Change your avatar in `images/avatar.jpg`.
+- Change your avatar in `images/avatar.jpeg`.
 
 ### Publishing to GitHub Pages for free
 
