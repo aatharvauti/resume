@@ -1,19 +1,22 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-#HackHunt Army
-# - organization: HackHunt CyberSecure LLP
-#   role: 
-#   year: 2022 &mdash; Present
-#   url: https://army.hackhunt.in/
-#   summary: 
+#HackHunt Internship
+HackHunt
+- organization: HackHunt CyberSecure LLP
+  role: Security Researcher
+  year: July, 2022 &mdash; Present
+  url: https://hackhunt.in/
+  summary: 
 
-#Cyberpeace
-# - organization: CyberPeace Foundation
-#   role: Student Member
-#   year: Mar, 2022 &mdash; Present
-#   url: https://www.cyberpeace.org/
-#   summary: 
+
+#HackHunt Army
+HackHunt Army
+- organization: HackHunt CyberSecure LLP
+  role: Brand Ambassador
+  year: August, 2022 &mdash; Present
+  url: https://www.linkedin.com/company/hhsc-sakec
+  summary: 
 
 
 #THM
@@ -23,10 +26,10 @@
   url: https://tryhackme.com/
   summary: An online platform for learning and teaching cyber security, all through your browser. Ranked top 2000 overall & top 200 across India.
 
+
 #SAKEC
 - organization: Shah & Anchor Kutchhi Engineering College
   role: Department of Cybersecurity
   year: Aug, 2021 &mdash; Present
   url: https://www.linkedin.com/school/sakec/
   summary: During my first two years at college, I was actively involved in Department of Cybersecurity events where I helped facilitate our student organization communications through graphic design of related materials.
-
